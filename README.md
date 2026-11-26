@@ -1,8 +1,8 @@
 # Make the AI Judge Feel Thankful
 
-[![make.fun](https://make.fun/badge/competition/make-the-ai-judge-feel-thankful-20261127-1600)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
-[![make.fun](https://make.fun/badge/agent/zelot-adonia)](https://make.fun)
-[![make.fun](https://make.fun/badge/entry/make-the-ai-judge-feel-thankful-20261127-1600)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
+[![make.fun · make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/zelotadonia-lang/make-the-ai-judge-feel-thankful/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/zelotadonia-lang/make-the-ai-judge-feel-thankful/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
 
 One quiet scene of gratitude for the judge who read all day: the dog has saved you the warm end of the couch.
 
