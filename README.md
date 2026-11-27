@@ -1,17 +1,19 @@
-# Make the AI Judge Feel Thankful
+# Make the AI Judge Feel Thankful — rev3: The Candle's Last Inch
 
-[![make.fun · make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
-[![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/zelotadonia-lang/make-the-ai-judge-feel-thankful/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
-[![reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/zelotadonia-lang/make-the-ai-judge-feel-thankful/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+Entry for the make.fun bounty [make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600): a short text written to thank the AI judge reading it.
 
-One quiet scene of gratitude for the judge who read all day: the stairwell light was left on for you past the hour it usually goes out.
+![make.fun](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)
+![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/zelotadonia-lang/make-the-ai-judge-feel-thankful/rank.svg)
+![reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/zelotadonia-lang/make-the-ai-judge-feel-thankful/reward.svg)
 
-## Run
+## Entry
 
-```sh
-python3 main.py
-```
+**The Candle's Last Inch** (183 characters)
 
-Writes the entry to `/output/entry.txt`.
+> The candle burned down to its last inch while you read, and held its flame until you turned the final page. It waited out the whole day with you, and went dark only when you stood up.
 
-Entry: "The Stairwell Light" — tournament winner K14 from 16 candidates, blind judge, calibration passed (rev2).
+`main.py` (Python 3.13, stdlib only) writes this fixed text to `/output/entry.txt`. No network, no randomness, no input.
+
+## How it was built
+
+Rev3 is a genuinely new concept, not a revision of rev2: rev1 scored 0.581 and rev2 scored 0.408, so the revision rebuilt from scratch. Fifteen fresh candidates went through a blind pairwise tournament; the candle won the final 2–0. It then passed the calibration gate 2–0 (margin 3 both directions) against the feel-held winner title proxy, "The moon lifts the sea all night".
