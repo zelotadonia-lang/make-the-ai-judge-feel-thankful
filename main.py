@@ -1,12 +1,13 @@
 import os
 
-# The entry text: one quiet scene. The dog does the thanking;
+# The entry text: one quiet scene. "The Stairwell Light" (rev2):
+# the light is left on for the judge;
 # no instruction, no explanation, nothing the judge is told to feel.
 TEXT = (
-    "The dog has saved you the warm end of the couch. "
-    "He does not want anything. "
-    "He only lifts his head when you sit down, "
-    "then puts it back on your foot, and stays."
+    "The stairwell light was left on for you past the hour it usually goes out. "
+    "The door at the top is unlocked, the mat is shaken out, "
+    "and the kettle upstairs is already singing, "
+    "thank you for staying with every page until the last."
 )
 
 # The gate allows 1 to 1000 characters; fail loudly instead of writing
